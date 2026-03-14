@@ -1,6 +1,3 @@
-# Java-Story-Generator
-A Java story recommendation system that uses lexicon-based NLP to analyze sentiment in text and recommend stories based on genre and sentiment scores.
-
 ## Overview
 
 This project allows users to choose stories based on different attributes such as genre and other story-related data. The program reads information from data files, parses it, and uses that information to help generate recommendations.
