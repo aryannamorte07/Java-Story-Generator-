@@ -1,6 +1,5 @@
-# Story Recommendation System
-
-This project uses a lexicon-based Natural Language Processing (NLP) approach to analyze sentiment in story text. A sentiment dictionary is used to assign polarity scores to words, allowing the system to estimate the emotional tone of each story and assist in recommending stories based on sentiment and genre.
+# Java-Story-Generator
+A Java story recommendation system that uses lexicon-based NLP to analyze sentiment in text and recommend stories based on genre and sentiment scores.
 
 ## Overview
 
